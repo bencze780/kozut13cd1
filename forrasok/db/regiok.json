@@ -1,0 +1,17 @@
+[
+{"type":"header","version":"5.2.0","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"gepjarmuvek"},
+{"type":"table","name":"regiok","database":"gepjarmuvek","data":
+[
+{"Rid":"1","regionev":"Pest","regio_tipusa":"vármegye"},
+{"Rid":"2","regionev":"Budapest","regio_tipusa":"főváros"},
+{"Rid":"3","regionev":"Közép-Magyarország","regio_tipusa":"nagyrégió"},
+{"Rid":"4","regionev":"Közép-Dunántúl","regio_tipusa":"régió"},
+{"Rid":"5","regionev":"Nyugat-Dunántúl","regio_tipusa":"régió"},
+{"Rid":"6","regionev":"Dél-Dunántúl","regio_tipusa":"régió"},
+{"Rid":"7","regionev":"Észak-Magyarország","regio_tipusa":"régió"},
+{"Rid":"8","regionev":"Észak-Alfőld","regio_tipusa":"régió"},
+{"Rid":"9","regionev":"Dél-Alföld","regio_tipusa":"régió"}
+]
+}
+]

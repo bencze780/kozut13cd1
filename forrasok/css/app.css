@@ -1,0 +1,54 @@
+body{
+    
+}
+
+h1{
+
+}
+
+.bg-fej {
+    font-size: 50%;
+    background-position: center;
+    height: 250px;
+
+}
+
+.bg-fej h2{
+    color: black;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.bg-fej h3{
+    color: black;
+    text-transform: uppercase;
+    font-weight: bold;
+
+}
+
+.container{
+    margin-bottom: 25px;
+}
+
+.bg-torzs {
+    text-align: justify;
+}
+
+h3{
+    margin: 25px 0px;
+    text-align: center;
+}
+
+a {
+    font-weight: bold;
+    color: darkblue;
+}
+.td_center{
+    text-align: center;
+}
+.td_right{
+    text-align:right;
+}
+
+header{
+
+}
